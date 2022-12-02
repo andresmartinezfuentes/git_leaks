@@ -1,0 +1,244 @@
+{
+    "leaks": [
+        {
+            "author": "Artem Payvin",
+            "message": "Merge pull request #647 from skalenetwork/enhancement/SKALE-2510-adopt-private-keys\n\nEnhancement/skale 2510 adopt private keys",
+            "date": 1628243812
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'enhancement/SKALE-2510-adopt-private-keys' of https://github.com/skalenetwork/skale-manager into enhancement/SKALE-2510-adopt-private-keys\n",
+            "date": 1628070643
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Rename environment private keys\n",
+            "date": 1626518564
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-2958 Fix docker credentials\n",
+            "date": 1610363436
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-2958 Add keys check\n",
+            "date": 1609768279
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge pull request #445 from skalenetwork/enhancement/SKALE-3504-hash-key\n\nSKALE-3504 add hash on X coordinate",
+            "date": 1607505887
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' into enhancement/SKALE-3504-hash-key",
+            "date": 1607430181
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Modify KeyStorage and remove ECDH from contracts\n",
+            "date": 1603454914
+        },
+        {
+            "author": "Vadim Yavorsky",
+            "message": "SKALE-3319 Minor changes in naming, remove LOCAL_PRIVATE_KEY and LOCAL_ENDPOINT\n",
+            "date": 1603127397
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Add elliptic to test for publi keys\n",
+            "date": 1599501719
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Add public key to address function\n",
+            "date": 1599147398
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge pull request #367 from skalenetwork/enhancement/Remove-node-bls-public-keys\n\nEnhancement/remove node bls public keys",
+            "date": 1599035170
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Remove computation od node bls public key\n",
+            "date": 1598967392
+        },
+        {
+            "author": "Chadwick Strange",
+            "message": "Fix typo in keyStorage.ts\n",
+            "date": 1597746753
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge pull request #296 from skalenetwork/bugfix/DKG-BLS-public-key-and-node-rotation\n\nBugfix/SKALE 2847 dkg bls public key and node rotation",
+            "date": 1593782127
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' into bugfix/DKG-BLS-public-key-and-node-rotation",
+            "date": 1593614436
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "SKALE-2847 fix calculate public key\n",
+            "date": 1593610575
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "init fix for BLS public key\n",
+            "date": 1593550324
+        },
+        {
+            "author": "Dima Stebaev",
+            "message": "Merge pull request #277 from skalenetwork/feature/SKALE-2812-admin-key\n\nSKALE-2812 Update permissions",
+            "date": 1593178538
+        },
+        {
+            "author": "Dima Stebaev",
+            "message": "Merge branch 'develop' into feature/SKALE-2812-admin-key",
+            "date": 1593168533
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge pull request #272 from skalenetwork/bug/SKALE-2810-bls-public-keys\n\nSKALE-2810 compute public keys",
+            "date": 1593168321
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' into bug/SKALE-2810-bls-public-keys\n",
+            "date": 1593155122
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' into bug/SKALE-2810-bls-public-keys",
+            "date": 1593143881
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Fixed failing tests added SKALE-2737 test added getBLSPublicKey test\n",
+            "date": 1593142468
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Added KeyStorage contract\n",
+            "date": 1593024757
+        },
+        {
+            "author": "Oleh Nikolaiev",
+            "message": "Merge branch 'develop' into bug/SKALE-2810-bls-public-keys",
+            "date": 1593008991
+        },
+        {
+            "author": "Oleh Nikolaiev",
+            "message": "SKALE-2810 compute public keys\n",
+            "date": 1593008710
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-2625 Rename secretKeyContribution argument\n",
+            "date": 1591363316
+        },
+        {
+            "author": "Vadim Yavorsky",
+            "message": "SKALE-2364 Uncomment functions verifySignature, getPreviousGroupsPublicKey\n",
+            "date": 1590511670
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-2625 Change node public key format\n",
+            "date": 1590158755
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-2625 Add KeyShare structure\n",
+            "date": 1590141974
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge pull request #91 from skalenetwork/enhancement/SKALE-2214-added-past-public-keys\n\nAdded past public keys",
+            "date": 1582807690
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Add getPreviousGroupsPublicKey\n",
+            "date": 1582799009
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys\n",
+            "date": 1582798038
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' into enhancement/SKALE-2214-added-past-public-keys",
+            "date": 1582733546
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys\n",
+            "date": 1582719871
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' into enhancement/SKALE-2214-added-past-public-keys",
+            "date": 1582714726
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'enahncement/SKALE-2228-added-block-to-schain' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys\n",
+            "date": 1582637057
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Merge branch 'develop' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys\n",
+            "date": 1582637007
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Added past public keys\n",
+            "date": 1582297157
+        },
+        {
+            "author": "Vadim Yavorsky",
+            "message": "SKALE-2060 added private keys to virtual environment\n",
+            "date": 1580931028
+        },
+        {
+            "author": "Dmytro Stebaiev",
+            "message": "SKALE-1973 Fix issue with private keys on testing\n",
+            "date": 1579188690
+        },
+        {
+            "author": "Sergiy Lavrynenko",
+            "message": "SKALE-1806 DKG related fixes, key parts order\n",
+            "date": 1576059404
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Finally fixed order of public keys\n",
+            "date": 1576005613
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Fixed order of public key\n",
+            "date": 1576002790
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Remove private keys from travis yml\n",
+            "date": 1574184553
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "SKALE-1213 added verify function based on schains publickey\n",
+            "date": 1571238209
+        },
+        {
+            "author": "Artem Payvin",
+            "message": "Added KeyExpansion\n",
+            "date": 1565291533
+        }
+    ]
+}

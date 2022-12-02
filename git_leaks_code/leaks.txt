@@ -1,0 +1,48 @@
+Merge pull request #647 from skalenetwork/enhancement/SKALE-2510-adopt-private-keys
+
+Enhancement/skale 2510 adopt private keysMerge branch 'enhancement/SKALE-2510-adopt-private-keys' of https://github.com/skalenetwork/skale-manager into enhancement/SKALE-2510-adopt-private-keys
+Rename environment private keys
+SKALE-2958 Fix docker credentials
+SKALE-2958 Add keys check
+Merge pull request #445 from skalenetwork/enhancement/SKALE-3504-hash-key
+
+SKALE-3504 add hash on X coordinateMerge branch 'develop' into enhancement/SKALE-3504-hash-keyModify KeyStorage and remove ECDH from contracts
+SKALE-3319 Minor changes in naming, remove LOCAL_PRIVATE_KEY and LOCAL_ENDPOINT
+Add elliptic to test for publi keys
+Add public key to address function
+Merge pull request #367 from skalenetwork/enhancement/Remove-node-bls-public-keys
+
+Enhancement/remove node bls public keysRemove computation od node bls public key
+Fix typo in keyStorage.ts
+Merge pull request #296 from skalenetwork/bugfix/DKG-BLS-public-key-and-node-rotation
+
+Bugfix/SKALE 2847 dkg bls public key and node rotationMerge branch 'develop' into bugfix/DKG-BLS-public-key-and-node-rotationSKALE-2847 fix calculate public key
+init fix for BLS public key
+Merge pull request #277 from skalenetwork/feature/SKALE-2812-admin-key
+
+SKALE-2812 Update permissionsMerge branch 'develop' into feature/SKALE-2812-admin-keyMerge pull request #272 from skalenetwork/bug/SKALE-2810-bls-public-keys
+
+SKALE-2810 compute public keysMerge branch 'develop' into bug/SKALE-2810-bls-public-keys
+Merge branch 'develop' into bug/SKALE-2810-bls-public-keysFixed failing tests added SKALE-2737 test added getBLSPublicKey test
+Added KeyStorage contract
+Merge branch 'develop' into bug/SKALE-2810-bls-public-keysSKALE-2810 compute public keys
+SKALE-2625 Rename secretKeyContribution argument
+SKALE-2364 Uncomment functions verifySignature, getPreviousGroupsPublicKey
+SKALE-2625 Change node public key format
+SKALE-2625 Add KeyShare structure
+Merge pull request #91 from skalenetwork/enhancement/SKALE-2214-added-past-public-keys
+
+Added past public keysAdd getPreviousGroupsPublicKey
+Merge branch 'develop' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys
+Merge branch 'develop' into enhancement/SKALE-2214-added-past-public-keysMerge branch 'develop' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys
+Merge branch 'develop' into enhancement/SKALE-2214-added-past-public-keysMerge branch 'enahncement/SKALE-2228-added-block-to-schain' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys
+Merge branch 'develop' of github.com:skalenetwork/skale-manager into enhancement/SKALE-2214-added-past-public-keys
+Added past public keys
+SKALE-2060 added private keys to virtual environment
+SKALE-1973 Fix issue with private keys on testing
+SKALE-1806 DKG related fixes, key parts order
+Finally fixed order of public keys
+Fixed order of public key
+Remove private keys from travis yml
+SKALE-1213 added verify function based on schains publickey
+Added KeyExpansion
